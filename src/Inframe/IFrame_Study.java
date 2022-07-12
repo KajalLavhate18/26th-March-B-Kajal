@@ -44,6 +44,7 @@ public class IFrame_Study {
 	     driver.switchTo().parentFrame();
 	     String Text3 = driver.findElement(By.linkText("Pavilion")).getText();
 	     System.out.println(Text3);
+	     System.out.println("This is change for git");
 	     
 	     System.out.println("==========================================");
 	     
