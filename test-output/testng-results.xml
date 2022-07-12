@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-01T14:37:24 IST" name="Default suite" finished-at="2022-07-01T14:37:40 IST" duration-ms="15899">
+    <groups>
+    </groups>
+    <test started-at="2022-07-01T14:37:24 IST" name="Default test" finished-at="2022-07-01T14:37:40 IST" duration-ms="15899">
+      <class name="KiteTest_TestNg.KiteTest_ValidateUID">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:KiteTest_TestNg.KiteTest_ValidateUID@4d154ccd]" started-at="2022-07-01T14:37:24 IST" name="BrowserLaunch" finished-at="2022-07-01T14:37:34 IST" duration-ms="10013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="LoginKiteApp()[pri:0, instance:KiteTest_TestNg.KiteTest_ValidateUID@4d154ccd]" started-at="2022-07-01T14:37:34 IST" name="LoginKiteApp" finished-at="2022-07-01T14:37:36 IST" duration-ms="2630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginKiteApp -->
+        <test-method signature="validateUser_Id()[pri:0, instance:KiteTest_TestNg.KiteTest_ValidateUID@4d154ccd]" started-at="2022-07-01T14:37:36 IST" name="validateUser_Id" finished-at="2022-07-01T14:37:39 IST" duration-ms="2085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUser_Id -->
+        <test-method is-config="true" signature="LogoutKiteApp()[pri:0, instance:KiteTest_TestNg.KiteTest_ValidateUID@4d154ccd]" started-at="2022-07-01T14:37:39 IST" name="LogoutKiteApp" finished-at="2022-07-01T14:37:40 IST" duration-ms="923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutKiteApp -->
+        <test-method is-config="true" signature="BrowserClosed()[pri:0, instance:KiteTest_TestNg.KiteTest_ValidateUID@4d154ccd]" started-at="2022-07-01T14:37:40 IST" name="BrowserClosed" finished-at="2022-07-01T14:37:40 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClosed -->
+      </class> <!-- KiteTest_TestNg.KiteTest_ValidateUID -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
